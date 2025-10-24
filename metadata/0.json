@@ -1,0 +1,10 @@
+{
+  "name": "TixChain Regular Ticket",
+  "description": "General admission access to TixChain events",
+  "image": "https://raw.githubusercontent.com/VincentLee25/tixchain-nft/main/images/regular-ticket.png",
+  "attributes": [
+    { "trait_type": "Type", "value": "Regular" },
+    { "trait_type": "Access", "value": "General Admission" },
+    { "trait_type": "Utility", "value": "Event Entry + POAP Eligibility" }
+  ]
+}

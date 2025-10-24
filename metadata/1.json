@@ -1,0 +1,13 @@
+{
+  "name": "TixChain VIP Ticket",
+  "description": "VIP access with premium benefits to TixChain events",
+  "image": "https://raw.githubusercontent.com/VincentLee25/tixchain-nft/main/images/vip-ticket.png",
+  "attributes": [
+    { "trait_type": "Type", "value": "VIP" },
+    { "trait_type": "Access", "value": "VIP Lounge + Backstage" },
+    {
+      "trait_type": "Utility",
+      "value": "Event Entry + Premium POAP + Merchandise"
+    }
+  ]
+}
